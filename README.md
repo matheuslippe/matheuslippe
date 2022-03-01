@@ -1,4 +1,4 @@
-<img align="right" width="180px" style="margin-top:-20px" src="https://ibb.co/PGNCDL9">
+<img align="right" width="180px" style="margin-top:-20px" src="https://i.ibb.co/VSx01qR/Whats-App-Image-2022-03-01-at-15-06-22-removebg-preview.png">
 
    <h1 align="left">Hello Devs</h1>
 
@@ -31,7 +31,7 @@ Me aventurei por vezes em codar, mas nada grandioso e oficial</br>
 
 ##
 
-### :computer: Technologies <img align="right" width="250px" style="margin-top:-20px" src="https://ibb.co/k13mcF0">
+### :computer: Technologies <img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/pjxXh7R/Whats-App-Image-2022-03-01-at-15-06-23-removebg-preview.webp">
 
 <div style="display: inline_block"><br>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
