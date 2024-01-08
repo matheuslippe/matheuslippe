@@ -34,9 +34,9 @@ Me aventurei por vezes em codar, mas nada grandioso e oficial</br>
 ### :computer: Technologies <img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/VSx01qR/Whats-App-Image-2022-03-01-at-15-06-22-removebg-preview.png">
 
 <div style="display: inline_block"><br>
-  <img alt="HTML5">
-  <img alt="CSS3">
-  <img alt="PYTHON">
+  <P="HTML5" src="">
+  <P="CSS3">
+  <P="PYTHON">
 </br>
 
 ## 
@@ -45,8 +45,7 @@ Me aventurei por vezes em codar, mas nada grandioso e oficial</br>
 
 ### :books: Learning
 <div style="display: inline-block"><br>
-  <img alt="NODEJS">
-  <img alt="CSHARP">
-  <img alt="DOTNET">
-  <img alt="Flutter">
+  <P="NODEJS">
+  <P="CSHARP">
+  <P="FLUTTER">
 </div>
