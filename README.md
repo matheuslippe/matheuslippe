@@ -21,7 +21,7 @@ I'm constantly learning and exploring new tools and frameworks to stay updated i
 
 ## 📫 Let's Connect!
 
-- LinkedIn: [Matheus Lippe]([https://www.linkedin.com/in/matheus-lippe](https://br.linkedin.com/in/matheuslippe))
+- LinkedIn: [Matheus Lippe](https://br.linkedin.com/in/matheuslippe)
 - Email: matheuslippe6@gmail.com
 
 Feel free to explore my repositories, check out my projects, or just reach out for a chat. I'm always open to collaboration and learning opportunities!
