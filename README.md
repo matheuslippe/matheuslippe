@@ -1,51 +1,31 @@
-<img align="right" width="180px" style="margin-top:-20px" src="https://i.ibb.co/7V8P9N9/Whats-App-Image-2022-03-01-at-15-06-23-removebg-preview.png">
+# 👋 Hello, I'm Matheus Lippe!
 
-   <h1 align="left">Hello Devs</h1>
+I'm a passionate **System Analyst** with over **5 years of experience** in the industry. My journey in programming started when I was just 15, and since then, I've honed my skills in **HTML, CSS, JavaScript, and Python**. I love solving complex problems and building efficient, user-friendly applications.
 
-<a href="https://www.instagram.com/matheuslippe_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/matheuslippe" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:matheuslippe6@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://open.spotify.com/user/matheuslippe6" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+## 🔧 Skills & Technologies
 
-Me chamo Matheus, mas podem me chamar de Lippe :wink: </br>
-:house: São Paulo,SP. </br>
-:birthday: Agosto :virgo:</br>
-:dart: Uma pessoa bastante curiosa, observadora e detalhista</br>
-:arrow_right: Iniciei carreira em tecnologia em Novembro/2015 </br>
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap
+- **Backend**: Python, Flask, Django
+- **Databases**: MySQL, PostgreSQL
+- **Tools & Platforms**: Git, GitHub, Docker, CI/CD
 
+## 🌟 Highlights
 
+- 📈 Currently working on a **user-driven investment platform**, where users can create and invest in projects.
+- 🎤 Developing a **karaoke application** with AI-based scoring using the YouTube API.
+- 🚀 Always exploring new technologies and methodologies to improve my craft.
 
-Me aventurei por vezes em codar, mas nada grandioso e oficial</br>
-(muitas expectativas para o futuro) :man_technologist:
+## 📚 Learning & Growth
 
-### 🛠️: Tools 
-<div>
+I'm constantly learning and exploring new tools and frameworks to stay updated in this ever-evolving field. Right now, I'm diving deeper into **responsive design** with Bootstrap and expanding my knowledge in **cloud computing**.
 
-  <img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+## 📫 Let's Connect!
 
-  </div>
+- LinkedIn: [Matheus Lippe]([https://www.linkedin.com/in/matheus-lippe](https://br.linkedin.com/in/matheuslippe))
+- Email: matheuslippe6@gmail.com
 
-<p align="center">
-  <img alt="MEME-GATO-NOTEBOOK" src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
-</p>
+Feel free to explore my repositories, check out my projects, or just reach out for a chat. I'm always open to collaboration and learning opportunities!
 
-##
+---
 
-### :computer: Technologies <img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/VSx01qR/Whats-App-Image-2022-03-01-at-15-06-22-removebg-preview.png">
-
-<div style="display: inline_block"><br>
-  <P="HTML5" src="">
-  <P="CSS3">
-  <P="PYTHON">
-</br>
-
-## 
-
-</br>
-
-### :books: Learning
-<div style="display: inline-block"><br>
-  <P="NODEJS">
-  <P="CSHARP">
-  <P="FLUTTER">
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheuslippe&show_icons=true&theme=radical)
