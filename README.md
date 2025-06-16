@@ -6,7 +6,7 @@ I'm a passionate **System Analyst** with over **5 years of experience** in the i
 
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap
 - **Backend**: Python, Django
-- **Databases**: MySQL
+- **Databases**: MySQL, Firebase
 - **Tools & Platforms**: Git, GitHub
 
 ## 📚 Learning & Growth
