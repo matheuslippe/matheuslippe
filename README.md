@@ -2,8 +2,10 @@
 
 I'm a passionate **System Analyst** with over **5 years of experience** in the industry. My journey in programming started when I was just 15, and since then, I've honed my skills in **HTML, CSS, JavaScript, and Python**. I love solving complex problems and building efficient, user-friendly applications.
 
-[![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuslippe&show_icons=true&theme=dark)](https://github.com/matheuslippe)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslippe&layout=compact&theme=dark)](https://github.com/matheuslippe)
+![Followers](https://img.shields.io/github/followers/matheuslippe?label=Followers&style=for-the-badge&logo=github&color=0891b2)
+![Public Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmatheuslippe&color=0891b2)
+![Top Lang](https://img.shields.io/github/languages/top/matheuslippe/saas_banco_horas?style=for-the-badge&color=0891b2)
+![Top Lang](https://img.shields.io/github/languages/top/matheuslippe/Finance-SAS?style=for-the-badge&color=0891b2)
 
 ## 🔧 Skills & Technologies
 
